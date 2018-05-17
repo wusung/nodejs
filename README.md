@@ -10,4 +10,4 @@
 
 [Node.js Style Guide](https://github.com/dead-horse/node-style-guide)
 
-[https://blog.risingstack.com/node-js-logging-tutorial/](https://blog.risingstack.com/node-js-logging-tutorial/)
+[How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
