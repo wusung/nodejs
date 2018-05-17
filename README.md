@@ -9,3 +9,5 @@
 [NodeJS编码规范](https://github.com/norfish/yueliao/wiki/NodeJS%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
 
 [Node.js Style Guide](https://github.com/dead-horse/node-style-guide)
+
+[https://blog.risingstack.com/node-js-logging-tutorial/](https://blog.risingstack.com/node-js-logging-tutorial/)
